@@ -12,6 +12,8 @@ This repository contains code for creating a digital twin using ROS2 and Omniver
 ## Screenshots
 
 You can find screenshots of the project in the `screenshots` directory.
-![Alt text](Screenshots/Assembly.png)
 ![Alt text](Screenshots/RealSystem.jpg)
 ![Alt text](Screenshots/DigitalTwin.png)
+![Alt text](Screenshots/Details.png)
+![Alt text](Screenshots/Green_Light_On.png)
+
