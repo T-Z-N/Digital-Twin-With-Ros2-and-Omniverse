@@ -8,6 +8,8 @@ This repository contains code for creating a digital twin using ROS2 and Omniver
 - Raspberry Pi 4
 - Ultrasonic sensor
 - 2 LED lamps
+- Jumper Cables
+- 440 Ohm Resistors
 
 ## Screenshots
 
