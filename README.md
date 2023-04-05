@@ -6,6 +6,7 @@ This repository contains code for creating a digital twin using ROS2 and Omniver
 
 - Raspberry Pi 4
 - RTX Graphics Card
+- Breadboard
 - Micro SD Card(For Ubuntu 20.04)
 - Ultrasonic sensor HC-SR04 
 - 2 LED lamps 
