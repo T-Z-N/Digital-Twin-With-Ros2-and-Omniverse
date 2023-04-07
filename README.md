@@ -1,6 +1,6 @@
 # Digital Twin with ROS2 and Omniverse
 
-This repository contains code for creating a digital twin using ROS2 and Omniverse. The project controls two different LED lamps with an ultrasonic sensor, which is wired to a Raspberry Pi 4.
+This repository contains code for creating a digital twin using ROS2 and Omniverse. The project controls three different LED lamps with an ultrasonic sensor, which is wired to a Raspberry Pi 4.
 
 ## Hardware Requirements
 
@@ -22,7 +22,9 @@ This repository contains code for creating a digital twin using ROS2 and Omniver
 
 ## Screenshots
 You can find screenshots of the project in the `screenshots` directory.
-
+![Alt text](Screenshots/Rotation.gif)
 ![Alt text](Screenshots/Front.png)
+![Alt text](Screenshots/FrontDigitalModel.png)
 ![Alt text](Screenshots/Left.png)
+![Alt text](Screenshots/LeftDigitalModel.png)
 ![Alt text](Screenshots/Night.png)
