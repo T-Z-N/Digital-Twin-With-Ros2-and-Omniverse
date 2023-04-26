@@ -11,6 +11,7 @@ This repository contains code for creating a digital twin using ROS2 and Omniver
 - Ultrasonic sensor HC-SR04 
 - 3 LED lamps 
 - 330 Ohm Resistors(400 Ohm is also okey)
+- Cables
 
 ## Software Requirements
 - Ubuntu 20.04
