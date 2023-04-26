@@ -1,11 +1,11 @@
 # Digital Twin with ROS2 and Omniverse
 
-This repository contains code for creating a digital twin using ROS2 and Omniverse. The project controls three different LED lamps with an ultrasonic sensor, which is wired to a Raspberry Pi 4.
+This repository contains code for creating a digital twin using ROS2 and Omniverse. The project controls three different LED lamps with an ultrasonic sensor, which is wired to a Raspberry Pi 4. 
 
 ## Hardware Requirements
 
 - Raspberry Pi 4
-- RTX Graphics Card
+- RTX Graphics Card 2060 or higher
 - Breadboard
 - Micro SD Card(For Ubuntu 20.04)
 - Ultrasonic sensor HC-SR04 
